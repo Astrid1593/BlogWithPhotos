@@ -1,0 +1,17 @@
+h1{
+    color: darkgreen;
+    font-size: 70px;
+}
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+img{
+    width: 500px;
+}
+h3{
+    background-color: darkolivegreen;
+    width: 2000px;
+    color: floralwhite;
+    height: 50px;
+}
